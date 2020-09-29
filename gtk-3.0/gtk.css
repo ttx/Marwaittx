@@ -955,6 +955,11 @@ decoration:backdrop {
   transition: 200ms ease-out;
 }
 
+.ssd decoration {
+  border-radius: 2px 2px 0 0;
+  box-shadow: 0 0 0 1px rgba(0,0,0,0.3);
+}
+
 .ssd decoration.maximized {
   border-radius: 0;
 }
