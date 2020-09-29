@@ -1011,6 +1011,8 @@ headerbar:backdrop,
 
 headerbar .title,
 .titlebar:not(headerbar) .title {
+  font-family: Dosis;
+  font-size: 18px;
   font-weight: bold;
   padding-left: 12px;
   padding-right: 12px;
